@@ -1,0 +1,20 @@
+.listButtons {
+  display: flex;
+  flex-wrap: wrap;
+  overflow: auto;
+  height: 70px;
+  &__buttons {
+    margin: 10px;
+    border: solid 1px black;
+    border-radius: 10px;
+    &:hover {
+      color: #fff;
+      background-color: $colorbuttons;
+      border: none;
+    }
+  }
+}
+
+.green {
+  background-color: $colorbuttons;
+}

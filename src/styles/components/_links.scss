@@ -1,0 +1,13 @@
+input:focus,
+button:focus {
+  background-color: $colorbuttons;
+}
+a:link,
+a:active {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+  color: #fff;
+  background-color: $colorbuttons;
+}
