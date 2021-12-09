@@ -1,6 +1,6 @@
 const callApi = () => {
   return fetch(
-    'http://challenges-asset-files.s3.us-east-2.amazonaws.com/jobMadrid/companies.json'
+    'https://challenges-asset-files.s3.us-east-2.amazonaws.com/jobMadrid/companies.json'
   )
     .then((response) => response.json())
     .then((dataApi) => {
