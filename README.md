@@ -32,15 +32,16 @@ https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojj
 
 Codefactor Code **A**
 
-[![CodeFactor](https://www.codefactor.io/repository/github/barbaraestevez/jobmadrid-networking-grid)](https://www.codefactor.io/repository/github/barbaraestevez/jobmadrid-networking-grid)
+[![CodeFactor](https://www.codefactor.io/repository/github/barbaraestevez/jobmadrid-networking-grid/badge)](https://www.codefactor.io/repository/github/barbaraestevez/jobmadrid-networking-grid)
 
 
 ## Comenzar
 
 ¿Que necesitas para instalar el software?
 
+Necesitas tener instalado
 ```
-Necesitas tener instalado Node JS
+Node JS
 ```
 
 
