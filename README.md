@@ -83,7 +83,7 @@ Este proyecto está bajo la Licencia MIT License.
 
 
 
-##TASKS
+## TASKS
 
 ✅ Task 1 → Puedo ver la barra superior con el botón de filter y las chips de filtro (botones con cada uno de los nombres de industria que se encuentran en la lista de compañías del enunciado) 
 
