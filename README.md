@@ -59,11 +59,14 @@ Introducir el comando
 npm run githubpages
 ```
 
-Y a continuación:
+A continuación configurar Pages en GitHub:
 
-1.  Sube tu repo a la carpeta `docs/` que se te acaba de generar
-2.  Entra en la pestaña settings de tu repositorio
-3.  En el apartado de GitHub Pages activa la opción **master branch/docs folder**
+1.  Ir al repo.
+2.  Ir a Settings.
+3.  Ir a Pages.
+4.  Elegir la rama master o main.
+5.  Elegir la carpeta `/docs`.
+6.  Y guardar.
 
 
 ## Construido con
