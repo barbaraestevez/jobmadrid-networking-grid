@@ -39,7 +39,6 @@ const App = () => {
         handleHidden={handleHidden}
         data={company}
         handleSearchIndustry={handleSearchIndustry}
-        //hidden={hidden}
         handleAll={handleAll}
       />
 
