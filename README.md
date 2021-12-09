@@ -19,7 +19,7 @@ https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojj
 Utilizando la plataforma Codefactor, dada en el enunciado, la calidad del código es: **A**
 
 
-### Comenzar
+## Comenzar
 
 ¿Que necesitas para instalar el software?
 
@@ -83,13 +83,7 @@ Este proyecto está bajo la Licencia MIT License.
 
 
 
-
-
-
-
-
-
-TASKS
+##TASKS
 
 ✅ Task 1 → Puedo ver la barra superior con el botón de filter y las chips de filtro (botones con cada uno de los nombres de industria que se encuentran en la lista de compañías del enunciado) 
 
